@@ -1,0 +1,3 @@
+/home/fuji/sss/socketproject/SocketServer/cmake-build-debug/CMakeFiles/SocketServer.dir
+/home/fuji/sss/socketproject/SocketServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fuji/sss/socketproject/SocketServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
